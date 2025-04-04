@@ -16,7 +16,7 @@ const { cmd } = require("../command");
 const moment = require("moment");
 
 let botStartTime = Date.now(); // Enregistrement de l'heure de démarrage du bot
-const ALIVE_IMG = "https://files.catbox.moe/zqoycp.jpg"; // Assurez-vous que cette URL est valide
+const ALIVE_IMG = "https://files.catbox.moe/jl6o2u.jpg"; // Assurez-vous que cette URL est valide
 
 cmd({
     pattern: "alive",
@@ -36,13 +36,13 @@ cmd({
         const runtimeHours = Math.floor(runtimeMilliseconds / (1000 * 60 * 60));
 
         const formattedInfo = `
-♻️ *NIMA MD V1 STATUS* ♻️
+♻️ *SHADOW MD V1 STATUS* ♻️
 Hi 🫵🏽 ${pushname}
 🕒 *Time*: ${currentTime}
 📅 *Date*: ${currentDate}
 ⏳ *Uptime*: ${runtimeHours} hours, ${runtimeMinutes} minutes, ${runtimeSeconds} seconds
 
-🤖 *Status*: *Nima is Alive and Ready!*
+🤖 *Status*: *THENULA is Alive and Ready!*
 
 🎉 *Enjoy the Service!*
         `.trim();
@@ -62,7 +62,7 @@ Hi 🫵🏽 ${pushname}
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
                     newsletterJid: '120363614256474114@newsletter',
-                    newsletterName: '𝗡𝗜𝗠𝗔 𝗔𝗟𝗜𝗩𝗘',
+                    newsletterName: 'CYBER X THENULA ALIVE',
                     serverMessageId: 143
                 }
             }
@@ -71,7 +71,7 @@ Hi 🫵🏽 ${pushname}
         // Send the audio file with context info
         await conn.sendMessage(from, {
             audio: { url: 'https://raw.githubusercontent.com/Kgtech-cmr/KERM-MD-V1/refs/heads/main/DATABASE/Kermalive.m4a' },
-            mimetype: 'audio/mp4',
+            mimetype: 'https://files.catbox.moe/oxx2t7.mp3',
             ptt: true,
             contextInfo: { 
                 mentionedJid: [m.sender],
@@ -79,7 +79,7 @@ Hi 🫵🏽 ${pushname}
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
                     newsletterJid: '120363416256474114@newsletter',
-                    newsletterName: '𝗡𝗜𝗠𝗔 𝗔𝗟𝗜𝗩𝗘',
+                    newsletterName: 'CYBER X THENULA ALIVE',
                     serverMessageId: 143
                 }
             }
