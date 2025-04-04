@@ -1,16 +1,16 @@
 ---------
 
-### <br>  ❖ RTD NIMA MD V1 ❖
-🔰 **`THE WORLD BEST WHATSAPP BOT CREATED BY NIMA🇱🇰`** 🔰
+### <br>  ❖ SHADOW MD V1 ❖
+🔰 **`THE WORLD BEST WHATSAPP BOT CREATED BY CYBER X THENULA`** 🔰
 
 ----------
 
-<a><img src='https://files.catbox.moe/3hrstp.jpg'/></a>
+<a><img src='https://files.catbox.moe/jl6o2u.jpg'/></a>
 
 -------
 
  <p align="center">
-  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=00008B&center=true&vCenter=true&multiline=false&lines=`RTD+-+NIMA+-+MD+-+V1+WHATSAPP+BOT`" alt="">
+  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=00008B&center=true&vCenter=true&multiline=false&lines=`+SHADOW+-+MD+-+V1+WHATSAPP+BOT`" alt="">
 
 <br>
 
