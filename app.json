@@ -1,9 +1,9 @@
 {
-  "name": "KERM-MD-V1",
-  "description": "ᴊᴀᴠᴀsᴄʀɪᴘᴛ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ Kɢ ᴛᴇᴄʜ",
-  "logo": "https://files.catbox.moe/yw2ty2.jpeg",
+  "name": "SHADOW-MD-V1",
+  "description": "SHADOW MD WHATSAPP BOT CREATED BY CYBER X THENULA",
+  "logo": "https://files.catbox.moe/jl6o2u.jpg",
   "keywords": ["bot"],
-  "success_url": "/",
+  "success_url": "https://github.com/Nethuni2007/SHADOW-MD",
 
     "stack": "container",
   "env": {
@@ -16,7 +16,7 @@
     "ALIVE_IMG": {
       "description": "paste your image url if you don't have you can use this public url.",
       "required": true,
-      "value": "https://files.catbox.moe/yw2ty2.jpeg"
+      "value": "https://files.catbox.moe/jl6o2u.jpg"
     }, 
     
     "ALIVE_MSG": {
@@ -95,7 +95,7 @@
     "BOT_NAME": {
       "description": "write hear your name.",
       "required": true,
-      "value": "✦『𝗞𝗘𝗥𝗠 𝗠𝗗 𝗩1』✦"
+      "value": "✦『SHADOW MD V1』✦"
     }, 
 
     "HEART_REACT": {
