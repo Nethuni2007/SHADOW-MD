@@ -42,7 +42,7 @@ const Crypto = require('crypto')
 const path = require('path')
 const prefix = config.PREFIX
 
-const ownerNumber = ['237656520674']
+const ownerNumber = ['94715603835']
 
 //===================SESSION-AUTH============================
 if (!fs.existsSync(__dirname + '/auth_info_baileys/creds.json')) {
@@ -61,7 +61,7 @@ const port = process.env.PORT || 9090;
 
 
 async function connectToWA() {
-console.log("CONNECTING RTD NIMA_MD-V1🚀...");
+console.log("CONNECTING SHADOW_MD-V1🚀...");
 const { state, saveCreds } = await useMultiFileAuthState(__dirname + '/auth_info_baileys/')
 var { version } = await fetchLatestBaileysVersion()
 
@@ -88,30 +88,30 @@ if (path.extname(plugin).toLowerCase() == ".js") {
 require("./plugins/" + plugin);
 }
 });
-console.log('RTD PLUGINS FILES INSTALL SUCCESSFULLY ✅')
-console.log('RTD NIMA_MD-V1 CONNECTED TO WHATSAPP ENJOY ✅')
+console.log('SHADOW PLUGINS FILES INSTALL SUCCESSFULLY ✅')
+console.log('SHADOW_MD-V1 CONNECTED TO WHATSAPP ENJOY ✅')
 
 let up = `*╭──────────────●●►*
-> *♻️𝚁𝚃𝙳 𝙽𝙸𝙼𝙰-𝙼𝙳 1𝚅 𝙲𝙾𝙽𝙽𝙴𝙲𝚃𝙴𝙳 𝚂𝚄𝙲𝙲𝙴𝚂𝚂𝙵𝚄𝙻𝚈 𝚃𝚈𝙿𝙴.𝙼𝙴𝙽𝚄 𝚃𝚄 𝙲𝙾𝙼𝙼𝙰𝙽𝙳 𝙻𝙸𝚂𝚃 𝙲𝚁𝙴𝙰𝚃𝙴𝙳 𝙱𝚈 𝚁𝚃𝙳 𝙻𝙾𝙺𝚄 𝙽𝙸𝙼𝙰𝙷✅*
+> *♻️SHADOW-𝙼𝙳 1𝚅 𝙲𝙾𝙽𝙽𝙴𝙲𝚃𝙴𝙳 𝚂𝚄𝙲𝙲𝙴𝚂𝚂𝙵𝚄𝙻𝚈 𝚃𝚈𝙿𝙴.𝙼𝙴𝙽𝚄 𝚃𝚄 𝙲𝙾𝙼𝙼𝙰𝙽𝙳 𝙻𝙸𝚂𝚃 𝙲𝚁𝙴𝙰𝚃𝙴𝙳 𝙱𝚈 CYBER X THENULA✅*
 
-> *♻️𝙹𝙾𝙸𝙽 𝚈𝙾𝚄 𝙼𝚈 𝚆𝙷𝙰𝚃𝚂𝙰𝙿𝙿 𝙲𝙷𝙰𝙽𝙽𝙴𝙻 𝙵𝙾𝚁 𝚄𝙿𝙳𝙰𝚃𝙴𝚂 𝚁𝚃𝙳 𝙽𝙸𝙼𝙰-𝙼𝙳-1𝚅♻️*
+> *♻️𝙹𝙾𝙸𝙽 𝚈𝙾𝚄 𝙼𝚈 𝚆𝙷𝙰𝚃𝚂𝙰𝙿𝙿 𝙲𝙷𝙰𝙽𝙽𝙴𝙻 𝙵𝙾𝚁 𝚄𝙿𝙳𝙰𝚃𝙴𝚂 SHADOW-𝙼𝙳-1𝚅♻️*
 
 *https://whatsapp.com/channel/0029Vb4jnKF0Qeaozdvx2J3s*
 
-> *♻️𝙹𝙾𝙸𝙽 𝚈𝙾𝚄 𝙼𝚈 𝚈𝙾𝚄𝚃𝚄𝙱𝙴 𝙲𝙷𝙰𝙽𝙽𝙴𝙻 𝚄𝙿𝙳𝙰𝚃𝙴𝚂 𝚁𝚃𝙳 𝙽𝙸𝙼𝙰-𝙼𝙳 1𝚅♻️*
+> *♻️𝙹𝙾𝙸𝙽 𝚈𝙾𝚄 𝙼𝚈 𝚈𝙾𝚄𝚃𝚄𝙱𝙴 𝙲𝙷𝙰𝙽𝙽𝙴𝙻 𝚄𝙿𝙳𝙰𝚃𝙴𝚂 SHADOW-𝙼𝙳 1𝚅♻️*
 
 *https://www.youtube.com/@RTD_FAMILY*
 
-*╭⊱❯❯🐲 RTD NIMA-MD-V1 🐲✫⊱╮*
-*│❯❯➠ - 📂REPOSITORY NAME:* *DNS KING*
+*╭⊱❯❯🐲 SHADOW-MD-V1 🐲✫⊱╮*
+*│❯❯➠ - 📂REPOSITORY NAME:* *CYBER X THENULA*
 *│❯❯➠ - 📃DESCRIPTION:* *THE WORLD BEST WHATSAPP BOT♻️*
-*│❯❯➠ - 🛡️OWNER:* *RTD NIMAH*
+*│❯❯➠ - 🛡️OWNER:* *CYBER X THENULA*
 *│❯❯➠ - 🌐URL:* *https://github.com/Lokunima2001/DNS-KING*
 
-*♻️YOUR RTD NIMA-MD BOT ACTIVE NOW ENJOY♻️*\n\n*PREFIX: ${prefix}*
+*♻️YOUR SHADOW-MD BOT ACTIVE NOW ENJOY♻️*\n\n*PREFIX: ${prefix}*
 
 *╰──────────────●●►*`;
-conn.sendMessage(conn.user.id, { image: { url: `https://files.catbox.moe/3hrstp.jpg` }, caption: up })
+conn.sendMessage(conn.user.id, { image: { url: `https://files.catbox.moe/jl6o2u.jpg` }, caption: up })
 
 }
 })
@@ -278,7 +278,7 @@ command.function(conn, mek, m,{from, l, quoted, body, isCmd, command, args, q, i
 })
 }
 app.get("/", (req, res) => {
-res.send("HEY,RTD NIMA-MD-V1 STARTED ✅");
+res.send("HEY,SHADOW-MD-V1 STARTED ✅");
 });
 app.listen(port, () => console.log(`Server listening on port http://localhost:${port}`));
 setTimeout(() => {
