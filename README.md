@@ -27,14 +27,14 @@
 </p>
 
 -----------
-<div align="center"><br> <img src="https://profile-counter.glitch.me/KERM-MD-V1/count.svg" /><br>RTD NIMAH-MD-V1</div>
+<div align="center"><br> <img src="https://profile-counter.glitch.me/KERM-MD-V1/count.svg" /><br>SHADOW-MD-V1</div>
 
 ------------
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-[![FORK RTD NIMA MD-V4](https://img.shields.io/badge/FORK%20-KERM%20MD%20V1-white)](https://github.com/Kgtech-cmr/KERM-MD-V1/fork)
+[![FORK SHADOW MD-V1](https://img.shields.io/badge/FORK%20-KERM%20MD%20V1-white)](https://github.com/Kgtech-cmr/KERM-MD-V1/fork)
 
 ### <br>    ❖ SESSION_ID ❖
 
@@ -59,17 +59,17 @@
 
 ### <br> ❖ FOR SUPPORT ❖
 
-**`➩ HII DEARS FRIENDS IF YOU WANT ANY HELP SO YOU CAN CONTACT↘︎ WITH ME WIA WHATSAPP ITS ME RTD NIMA MD࿐➺`**
+**`➩ HII DEARS FRIENDS IF YOU WANT ANY HELP SO YOU CAN CONTACT↘︎ WITH ME WIA WHATSAPP ITS ME SHADOW MD࿐➺`**
 
 -------
 
 <p align="center">
-  <a href="https://wa.me/94769091078?text=*@_Hi_RTD_NIMAH_BOT_DPLOY_ME_🚀🤖*" target="_blank">
+  <a href="https://wa.me/94769091078?text=*@_Hi_SHADOW_MD_BOT_DPLOY_ME_🚀🤖*" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 -----------    
 
-`✠ IF YOU WANT MORE ABOUT RTD NIMA MD V1 WHATSAPP BOT :-NEW UPDATED NEW CMDS SO JOIN OUR WHATSAPP CHANNEL FOR MORE INFORMATION CLICK THIS RED BUTTON 🔳 AND JOIN THE GROUP ✠`
+`✠ IF YOU WANT MORE ABOUT SHADOW MD V1 WHATSAPP BOT :-NEW UPDATED NEW CMDS SO JOIN OUR WHATSAPP CHANNEL FOR MORE INFORMATION CLICK THIS RED BUTTON 🔳 AND JOIN THE GROUP ✠`
 
 ---------
 
@@ -77,7 +77,7 @@
 
 -----------
 
-`✠ IF YOU WANT MORE ABOUT RTD NIMA MD V1 WHATSAPP BOT :-NEW UPDATED NEW CMDS SO SUBSCRIBE OUR YOUTUBE CHANNEL FOR MORE INFORMATION CLICK THIS BLUE BUTTON 🔳 AND JOIN THE YOUTUBE CHANNEL ✠`
+`✠ IF YOU WANT MORE ABOUT SHADOW MD V1 WHATSAPP BOT :-NEW UPDATED NEW CMDS SO SUBSCRIBE OUR YOUTUBE CHANNEL FOR MORE INFORMATION CLICK THIS BLUE BUTTON 🔳 AND JOIN THE YOUTUBE CHANNEL ✠`
 
 ----------
 
@@ -87,7 +87,7 @@
  
 ### <br>   ❖ DEPLOY_HEROKU ❖
 
-`✠ IF YOU WANT TO DEPLOY RTD NIMA MD V1 BOT ON HEROKU SO FIRST GET YOUR SESSION_ID THEN CLICK THIS BLUE BUTTON [DEPLOY TO HEROKU] THEN YOU CAN ENJOY THIS BOT ✠`
+`✠ IF YOU WANT TO DEPLOY SHADOW MD V1 BOT ON HEROKU SO FIRST GET YOUR SESSION_ID THEN CLICK THIS BLUE BUTTON [DEPLOY TO HEROKU] THEN YOU CAN ENJOY THIS BOT ✠`
 
 ------------
  
@@ -153,7 +153,7 @@
 <a href='https://dashboard.render.com' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/RENDER-h?color=maroon&style=for-the-badge&logo=render'/></a></p>
 
 -----------
-`✠ HOW TO DEPLOY RTD NIMA MD V1 ON WORKFLOWS FREE GITHUB WATCH VIDEO ✠`
+`✠ HOW TO DEPLOY SHADOW MD V1 ON WORKFLOWS FREE GITHUB WATCH VIDEO ✠`
 
 -------------
 
@@ -164,6 +164,6 @@
 
 -------------
 
-THANKS RTD NIMA MD DIPLOY♻️.
+THANKS SHADOW MD DIPLOY♻️.
 
-RTD MD WHATSAPP BOT FORK YOU♻️
+SHADOW MD WHATSAPP BOT FORK YOU♻️
