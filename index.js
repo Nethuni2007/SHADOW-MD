@@ -46,8 +46,8 @@ const ownerNumber = ['94715603835']
 
 //===================SESSION-AUTH============================
 if (!fs.existsSync(__dirname + '/auth_info_baileys/creds.json')) {
-if(!config.SESSION_ID) return console.log('Please add your session to SESSION_ID env !!')
-const sessdata = config.SESSION_ID.replace("KERM-MD-V1~", '');
+if(!config.SESSION_ID) return console.log('NFICgBTb#fskZExggOJ38cCoGr6NVOO0Ms2PwXVJXXKN-qFbkBng')
+const sessdata = config.SESSION_ID.replace("KERM-MD-V1~", 'NFICgBTb#fskZExggOJ38cCoGr6NVOO0Ms2PwXVJXXKN-qFbkBng');
 const filer = File.fromURL(`https://mega.nz/file/${sessdata}`)
 filer.download((err, data) => {
 if(err) throw err
